@@ -6,5 +6,8 @@ public class Member {
 	private String memberPwd;
 	
 	
-
+	
+	private int age;
+	private double height;
+	
 }
